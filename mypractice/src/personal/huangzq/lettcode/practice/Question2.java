@@ -1,4 +1,4 @@
-package src.personal.huangzq.lettcode.practice;
+package personal.huangzq.lettcode.practice;
 
 import java.math.BigDecimal;
 
